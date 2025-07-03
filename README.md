@@ -1,4 +1,4 @@
-### My Public Formal Verification Reports
+### My Public Certora Formal Verification Reports
 
 | Date | Project | Language | Platform | Place | PDF |
 |------|---------|----------|----------|-------|-----|
