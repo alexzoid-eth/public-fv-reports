@@ -1,4 +1,4 @@
-# Public Formal Verification Reports
+### Public Formal Verification Reports
 
 | Date | Project | Language | Platform | Place | PDF |
 |------|---------|----------|----------|-------|-----|
