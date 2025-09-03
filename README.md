@@ -2,7 +2,7 @@
 
 | Date | Specification | Language | Platform | Place | PDF |
 |------|---------|----------|----------|-------|-----|
-| Aug 2025 | [Licredity](https://github.com/Licredity/licredity-v1-core/tree/cyfrin-formal-verification/certora) | EVM/Solidity | [CyfrinAudits](https://x.com/CyfrinAudits) (private engagement) | - | [Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-01-cyfrin-licredity-v2.0.FV.pdf) |
+| Aug 2025 | [Licredity](https://github.com/alexzoid-eth/licredity-v1-core-fv/tree/cyfrin-formal-verification/certora) | EVM/Solidity | [CyfrinAudits](https://x.com/CyfrinAudits) (private engagement) | - | [Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-01-cyfrin-licredity-v2.0.FV.pdf) |
 | Jun 2025 | [Aquarius](https://github.com/alexzoid-eth/aquarius-cantina-fv/tree/main/fees_collector/src/certora_specs) | Stellar/RUST | [Cantina x Certora](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff) | 🥈 #2 | Report soon... |
 | Feb 2025 | [Blend v2](https://github.com/alexzoid-eth/2025-02-blend-fv/tree/main/blend-contracts-v2/backstop) | Stellar/RUST | [Code4rena x Certora](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) | 🏆 #1 | [Report](./2025_02_blend_v2_backstop_fv_report_alexzoid.pdf) |
 | Jan 2025 | [Silo v2](https://github.com/alexzoid-eth/silo-v2-cantina-fv/tree/main/certora) | EVM/Solidity | [Cantina x Certora](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7) | #5 | [Report](./2025_01_silo_v2_fv_report_alexzoid.pdf) |
