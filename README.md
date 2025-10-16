@@ -2,6 +2,7 @@
 
 | Date | Specification | Language | Platform | Place | PDF |
 |------|---------|----------|----------|-------|-----|
+| Oct 2025 | Accountable | EVM/Solidity | [CyfrinAudits](https://x.com/CyfrinAudits) (private engagement) | - | [Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-16-cyfrin-accountable-v2.0.fv.pdf) |
 | Sept 2025 | l2-angstrom | EVM/Solidity | [CyfrinAudits](https://x.com/CyfrinAudits) (private engagement) | - | [Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-01-cyfrin-sorella-l2-angstrom-v2.1.fv.pdf) |
 | Aug 2025 | [Licredity](https://github.com/alexzoid-eth/licredity-v1-core-fv/tree/cyfrin-formal-verification/certora) | EVM/Solidity | [CyfrinAudits](https://x.com/CyfrinAudits) (private engagement) | - | [Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-01-cyfrin-licredity-v2.0.FV.pdf) |
 | Aug 2025 | Uniswap V4 Hooks Project | EVM/Solidity | [CyfrinAudits](https://x.com/CyfrinAudits) (private engagement) | - | - |
